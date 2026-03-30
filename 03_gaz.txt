@@ -1,0 +1,8 @@
+Une entreprise de distribution de gaz souhaite analyser la consommation de gaz afin d'optimiser la production, la logistique et la facturation.
+
+La direction souhaite analyser la consommation :
+
+par type de client (residentiel, industriel)
+par zone geographique (ville)
+par periode temporelle
+par type de compteur
