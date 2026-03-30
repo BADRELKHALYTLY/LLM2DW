@@ -21,13 +21,13 @@ python dw_architect.py <schema.sql> <context.txt>
 ### Exemple
 
 ```bash
-python dw_architect.py examples/01_hopital.sql examples/01_hopital.txt
+python dw_architect.py 03_gaz.sql 03_gaz.txt
 ```
 
 ### Mode Ollama (optionnel)
 
 ```bash
-python dw_architect.py schema.sql context.txt --ollama llama3
+python dw_architect.py 03_gaz.sql 03_gaz.txt --ollama llama3
 ```
 
 ## Algorithme en 7 etapes
